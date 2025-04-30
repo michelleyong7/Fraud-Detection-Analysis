@@ -66,8 +66,6 @@ CSV files were generated for each flagged rule and saved to the `/data` folder:
 
 This project pushed me to combine multiple skills — from SQL querying and datetime wrangling to data visualization and risk scoring. I enjoyed building a fraud detection pipeline from scratch and learned how simple rules can scale into powerful decision tools.
 
-I’d love to work on projects like this professionally, especially where data helps protect people and systems. I'm always open to feedback or opportunities — feel free to connect!
-
 
 ## Tools Used
 
