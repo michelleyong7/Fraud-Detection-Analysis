@@ -1,0 +1,1 @@
+transaction_id,user_id,amount,timestamp,city,merchant_id,refund_flag,device_id,ip_address,hour,txn_hour,high_freq_flag,month,refund_heavy_flag,shared_device_flag
